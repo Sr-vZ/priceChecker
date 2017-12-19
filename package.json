@@ -1,0 +1,23 @@
+{
+  "name": "price-checker",
+  "version": "1.0.0",
+  "description": "an app to compare price of a an article on leading e commerce sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sr-vZ/priceChecker.git"
+  },
+  "author": "SrvZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sr-vZ/priceChecker/issues"
+  },
+  "homepage": "https://github.com/Sr-vZ/priceChecker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}
